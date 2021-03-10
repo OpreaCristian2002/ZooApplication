@@ -1,2 +1,2 @@
 # ZooApplication
-Simple project so that i understand basic concepts of Object Oriented Programming in Java
+Simple project so that I understand basic concepts of Object Oriented Programming in Java.
