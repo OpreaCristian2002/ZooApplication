@@ -1,0 +1,3 @@
+Penguin; 300; Tundra, Coastal
+Duck; 50; Coastal
+Rock Crab; 80; Coastal, Tundra, Reef

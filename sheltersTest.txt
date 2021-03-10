@@ -1,0 +1,3 @@
+Coastal A.1 470 False 40
+Tundra B.1 680 True
+Reef C.1 745 True 38
